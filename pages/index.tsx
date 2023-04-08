@@ -39,7 +39,7 @@ const Home: NextPage = () => {
           property="og:description"
           content="End-to-end payments and financial management in a single solution. Meet the right platform to help realize."
         />
-        <meta property="og:image" content="/images/thumbnail.png" />
+        <meta property="og:image" content="/img/dashboard-thumbnail.png" />
         <meta
           property="og:url"
           content="https://saas-crypto-portfolio.vercel.app/"
@@ -55,7 +55,7 @@ const Home: NextPage = () => {
           property="twitter:description"
           content="End-to-end payments and financial management in a single solution. Meet the right platform to help realize."
         />
-        <meta property="twitter:image" content="/images/thumbnail.png" />
+        <meta property="twitter:image" content="/img/dashboard-thumbnail.png" />
       </Head>
       <Flex direction="column" gap="42px">
         <Hero />

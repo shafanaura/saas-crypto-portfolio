@@ -1,0 +1,26 @@
+<svg width="1440" height="790" viewBox="0 0 1440 790" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_0_701" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="790">
+<rect width="1440" height="790" fill="url(#paint0_linear_0_701)"/>
+</mask>
+<g mask="url(#mask0_0_701)">
+<path opacity="0.2" d="M154.5 244.5V284L180.5 273V234L154.5 244.5Z" fill="#F7FA62"/>
+<path opacity="0.2" d="M946 -95.24V28L1027 0.5V-128L946 -95.24Z" fill="#F7FA62"/>
+<path opacity="0.2" d="M1111.5 171V243L1074 232.5V160.5L1111.5 171Z" fill="#3734A9" stroke="white"/>
+<path opacity="0.2" d="M4 185V268L41.5 257.5V174.5L4 185Z" fill="#3734A9" stroke="white"/>
+<path opacity="0.78" d="M896.177 834.739L1005.5 761L1029.57 849.307L915.582 926.193L896.177 834.739Z" fill="#F7FA62"/>
+<path opacity="0.89" d="M914.012 795.683L826.333 743L880.524 697.128L971.945 752.06L914.012 795.683Z" fill="#F7FA62"/>
+<path opacity="0.72" d="M310.038 639.222L391.167 672L351.52 718.008L266.928 683.831L310.038 639.222Z" fill="#8FD0FF"/>
+<path opacity="0.4" d="M1434.33 483.886L1532.57 575.5L1450.44 619.628L1348 524.104L1434.33 483.886Z" fill="#8FD0FF"/>
+<path opacity="0.1" d="M1021.62 546.945L985.929 608.762L962.515 584.817L998.205 523L1021.62 546.945Z" fill="#3734A9" stroke="white"/>
+<path opacity="0.2" d="M94.5061 527.53L180.262 517L173.24 563.2L87.4841 573.73L94.5061 527.53Z" fill="#3734A9" stroke="white"/>
+<path opacity="0.2" d="M1286.58 272.128L1342.93 328.47L1310.34 346.798L1254 290.456L1286.58 272.128Z" fill="#3734A9" stroke="white"/>
+<path opacity="0.3" d="M642.943 468.364L579.333 456L595.049 424.673L658.659 437.038L642.943 468.364Z" fill="#3734A9" stroke="white"/>
+<path opacity="0.2" d="M403.368 409.17L282 387.77L323.148 312.775L449.696 335.089L403.368 409.17Z" fill="#8FD0FF"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_701" x1="720" y1="0" x2="720" y2="790" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3734A9"/>
+<stop offset="1" stop-color="#3734A9" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

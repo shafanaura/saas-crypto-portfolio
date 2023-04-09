@@ -144,7 +144,7 @@ const Navbar = () => {
           <ChakraLink color="white">Sign In</ChakraLink>
           <a
             target="_blank"
-            href="https://github.com/shafanaura/crypto-portfolio-saas-landing-page"
+            href="https://github.com/shafanaura/saas-crypto-portfolio"
           >
             <Button
               leftIcon={<Icon as={BsGithub} />}

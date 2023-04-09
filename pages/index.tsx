@@ -33,7 +33,7 @@ const Home: NextPage = () => {
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
-          content="End-to-end payments and financial management in a single solution. Meet the right platform to help realize."
+          content="Managing your crypto portfolio has never been easier"
         />
         <meta
           property="og:description"
@@ -49,7 +49,7 @@ const Home: NextPage = () => {
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:title"
-          content="End-to-end payments and financial management in a single solution. Meet the right platform to help realize."
+          content="Managing your crypto portfolio has never been easier"
         />
         <meta
           property="twitter:description"
